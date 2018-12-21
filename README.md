@@ -3,7 +3,7 @@
 
 **实现人：王雨欣**  
 
-**原始项目链接: ** [课程作业](https://github.com/idupclub/CampusMap.git)
+**原始项目链接:**  [课程作业](https://github.com/idupclub/CampusMap.git)
 
 ## 增添位置图标
 
