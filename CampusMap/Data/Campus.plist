@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>midCoord</key>
+        <string>{32.1198,118.9589}</string>
+        <key>overlayTopLeftCoord</key>
+        <string>{32.1288,118.9379}</string>
+        <key>overlayTopRightCoord</key>
+        <string>{32.1303,118.9668}</string>
+        <key>overlayBottomLeftCoord</key>
+        <string>{32.1082,118.9314}</string>
+        <key>boundary</key>
+        <array>
+            <string>{32.1265,118.95104}</string>
+            <string>{32.1278,118.95355}</string>
+            <string>{32.1291,118.95713}</string>
+            <string>{32.1295,118.95940}</string>
+            <string>{32.1297,118.96155}</string>
+            <string>{32.1294,118.96316}</string>
+            <string>{32.1291,118.96400}</string>
+            <string>{32.1257,118.96490}</string>
+            <string>{32.1235,118.96503}</string>
+            <string>{32.1206,118.96464}</string>
+            <string>{32.1188,118.96421}</string>
+            <string>{32.1167,118.96396}</string>
+            <string>{32.1140,118.96460}</string>
+            <string>{32.1110,118.96632}</string>
+            <string>{32.1094,118.96353}</string>
+            <string>{32.1091,118.96061}</string>
+            <string>{32.1090,118.95821}</string>
+            <string>{32.1085,118.95550}</string>
+            <string>{32.1150,118.95237}</string>
+            <string>{32.1192,118.95070}</string>
+            <string>{32.1205,118.95052}</string>
+            <string>{32.1230,118.95074}</string>
+            <string>{32.1251,118.95083}</string>
+            <string>{32.1266,118.95108}</string>
+        </array>
+    </dict>
+</plist>
